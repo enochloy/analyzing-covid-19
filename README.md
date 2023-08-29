@@ -3,6 +3,14 @@
 - ETL and data analysis were conducted using SQL, followed by visualization using Tableau.
 - View my [Tableau dashboard](https://public.tableau.com/app/profile/loy.xueheng.enoch/viz/VisualizingCOVID-19_16932999790630/Dashboard?publish=yes).
 
+### Insights
+1. Year 2022 had the most COVID cases (444 million), followed by 2021 (203 mil). In comparison, 2021 saw the most deaths (3.5 million) compared to 2022 (1.2 million). This shows that the world is better equiped to handle COVID.
+2. There has been a spike in COVID cases in December and January for both 2021 and 2022. We may see the same for 2023.
+3. South America has the highest vaccination per capita (1.9) yet they have the highest death per capita (0.0031). Asia has the lowest cases and deaths per capita compared to other continents.
+4. Cyprus has the highest percentage of population infected at 73.8% (including reinfections).
+5. Yemen has the highest death probability if infected at ~18%, a stark difference from the second highest country Sudan at 7.9%.
+6. Peru, Bulgaria, and Bosnia and Herzegovina suffered the highest death as a proportion of their population at 0.65%, 0.57% and 0.51% respectively.
+
 ### Data Dictionary
 `covid_vaccinations`:
 | Feature                               | Type             | Description                                                                                                                                                      |
